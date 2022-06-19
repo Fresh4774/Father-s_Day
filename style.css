@@ -1,0 +1,14 @@
+.banner{background:url('father-day-banner-in-paper-cut-style-free-vector.jpg');height:250px;background-size:cover;background-repeat:no-repeat;background-position:center center; padding:20px;transition:1s}
+
+body{background-color:#000;color:#fff;}
+.content {padding:30px;}
+.content p{font-size:25px;text-allign:justify;line-height:40px;}
+
+.banner:hover{transform:scale(1.1);}
+
+.gallery{width:350px;float:left;margin:3%;transition:1s;}
+
+.gallery:hover{transform:rotate(360deg);background-color:#fff;color:#000;}
+.gallery img{width:350px;height:350px;}
+
+.desc{padding:20px;text-align:center;}
